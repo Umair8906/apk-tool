@@ -83,7 +83,7 @@ apt-get upgrade -y
 
 
 
-git clone https://github.com/h4ck3r0/Apktool-termux
+git clone https://github.com/Umair8906/apk-tool.git
 
 
 
@@ -103,7 +103,7 @@ ls
 
 
 
-cd Apktool-termux
+cd apk-tool
 
 
 
